@@ -1,0 +1,1 @@
+Le load balancer vérifie l'accès à ce répertoire. Si le répertoire est accessible, le test de santé est considéré comme réussi, indiquant qu'il n'y a pas d'erreurs. Cette vérification est effectuée toutes les minutes.
